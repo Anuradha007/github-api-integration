@@ -2,7 +2,7 @@
 
 ###################
 # About: list the users with read access
-# Input: USERNAME , TOKEM
+# Input: USERNAME , TOKEN
 #
 #
 # Owner: Anuradha Raj
